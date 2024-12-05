@@ -9,7 +9,6 @@ Base and Enrichment Dataset Location: https://www.kaggle.com/kkanda/analyzing-uc
 
 To the data set the below machine learning algorithms are applied
 * KMeans
-* GMM
 * Linear Regression
 * Logistic Regression
 * Decison Trees
