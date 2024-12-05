@@ -18,5 +18,6 @@ To the data set the below machine learning algorithms are applied
 * Support Vector Machine
 * Principal Components Analysis
 * KNN
+  
 
 Thereby all these algorithms are applied to different use cased based on the problem type whether it is a Classification, Regression ot Clusterring problem. Finally a story is formed which gives a conclusion of the crime analysis.
